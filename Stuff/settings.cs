@@ -1,4 +1,6 @@
-﻿namespace Stuff
+﻿using System;
+
+namespace Stuff
 {
     public sealed class settings
     {
